@@ -1,0 +1,33 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+.snap
+
+#build
+output
+dist
+storybook-static
+
+#sonar
+.scannerwork/
+
+#ide
+.vscode/
+**.code-workspace
+
+testResults/
+
+#output
+lib
+tmp
+.env
+
+#guac playback
+src/guac-playback-example/
+
+#package-lock
+**.code-workspace
